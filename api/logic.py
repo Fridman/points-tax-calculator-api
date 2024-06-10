@@ -7,8 +7,6 @@ from api.exceptions import CustomException
 from common.extensions import cache
 from common.utils import convert_dollars_to_cents
 
-# GLOBAL VARS∂
-
 
 def prepare_tax_bracket_data(tax_brackets: list):
     '''
