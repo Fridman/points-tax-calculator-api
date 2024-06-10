@@ -22,6 +22,7 @@ where the parameters are defined as
 The API will return a JSON response structured as follows:
 
 ```
+{
 	"effective_rate": 0.15,
     "income": 5000000,
     "tax_brackets": [
