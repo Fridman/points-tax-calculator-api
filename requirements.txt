@@ -1,0 +1,37 @@
+asgiref==3.7.2
+blinker==1.8.2
+cachelib==0.9.0
+certifi @ file:///private/tmp/python-certifi-20240112-86885-b85bs6/certifi-2023.11.17
+charset-normalizer @ file:///private/tmp/python-charset-normalizer-20240112-87072-1yekeg/charset-normalizer-3.3.2
+click==8.1.7
+Django==4.2.5
+django-cors-headers==4.3.1
+djangorestframework==3.14.0
+docutils @ file:///private/tmp/docutils-20240112-85206-qxw7lj/docutils-0.20.1
+editables @ file:///private/tmp/python-hatchling--editables-20240113-86233-u02yqg/editables-0.5
+Flask==3.0.3
+Flask-Caching==2.3.0
+flit_core @ file:///private/tmp/python-flit-core-20240112-85301-utho61/flit_core-3.9.0
+hatchling @ file:///private/tmp/python-hatchling-20240112-86233-mg3od1/hatchling-1.21.0
+idna @ file:///private/tmp/python-idna-20240112-87256-ktqfok/idna-3.6
+iniconfig==2.0.0
+itsdangerous==2.2.0
+Jinja2 @ file:///private/tmp/python-jinja-20240112-86697-iacsvm/Jinja2-3.1.3
+lit @ file:///private/tmp/lit-20240112-97706-61sraq/lit-17.0.6
+MarkupSafe @ file:///private/tmp/python-markupsafe-20240112-86452-asze36/MarkupSafe-2.1.3
+packaging @ file:///private/tmp/python-packaging-20240112-85396-7w89ri/packaging-23.2
+pathspec @ file:///private/tmp/python-pathspec-20240112-85493-rmzt6q/pathspec-0.12.1
+pluggy==1.5.0
+Pygments @ file:///private/tmp/pygments-20240112-86342-b01fk2/pygments-2.17.2
+pytest==8.2.2
+pytest-mock==3.14.0
+pytz==2023.3.post1
+requests @ file:///private/tmp/python-requests-20240112-87446-uj0x3z/requests-2.31.0
+setuptools-scm @ file:///private/tmp/python-setuptools-scm-20240112-85683-mj3z8n/setuptools-scm-8.0.4
+six==1.16.0
+sqlparse==0.4.4
+tabulate @ file:///private/tmp/python-tabulate-20240112-87629-4wx161/tabulate-0.9.0
+trove-classifiers @ file:///private/tmp/python-trove-classifiers-20240112-86047-c1dcjp/trove-classifiers-2024.1.8
+typing_extensions @ file:///private/tmp/python-typing-extensions-20240112-85588-cttw8t/typing_extensions-4.9.0
+urllib3 @ file:///private/tmp/python-urllib3-20240112-87351-jgpqsf/urllib3-2.1.0
+Werkzeug==3.0.3
