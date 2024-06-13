@@ -5,9 +5,10 @@ This Flask-based REST API calculates one's owed taxes based on tax bracket infor
 ## Installation
 
 1. Clone this repository onto your local machine.
-2. Set up a [virtual environment](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/).
-3. Install all requirements using ```pip3 install requirements.txt```.
-4. Run the server with ```flask run``` or test with ```pytest```.
+2. Install [The Points Interview Test Server](https://github.com/Points/interview-test-server/) and run it locally.
+3. Set up a [virtual environment](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/).
+4. Install all requirements using ```pip3 install requirements.txt```.
+5. Run the server with ```flask run``` or test with ```pytest```.
 
 ## Request
 
