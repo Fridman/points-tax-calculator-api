@@ -12,6 +12,8 @@ This Flask-based REST API calculates one's owed taxes based on tax bracket infor
 
 ## Request
 
+The app is configured to send requests to ```http://127.0.0.1:5000/``` which is the default address for the [The Points Interview Test Server](https://github.com/Points/interview-test-server/).
+
 GET requests to the app should be structured as follows:
 
 ```
